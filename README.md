@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello world  👋 🌍
 
-<!--
-**felipeimp22/felipeimp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🤳 who am i ?
+My name is Felipe, i m developer and I'm a technology lover 😍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I believe that the most important thing to do is to always be
+in search of knowledge and teach it on to other people. 🔭
+
+
+
+
