@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg">
+<img src="https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" style="width:10px;">
 
 # Hello world  👋 🌍
 
