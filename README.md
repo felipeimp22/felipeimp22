@@ -29,6 +29,8 @@ Although I have these four technologies as main ones, I have already worked with
 So on ...
 
 
+Currently I'm in love with devops
+
 
 
 
