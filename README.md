@@ -10,6 +10,13 @@ My name is Felipe, i'm a full stack developer and I'm a technology lover 😍.
 I believe that the most important thing to do is to always be
 in search of knowledge and teach it on to other people.
 
+## main technologies
+* NodeJs
+* React
+* React-Native
+
+
+
 
 
 
