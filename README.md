@@ -19,6 +19,14 @@ in search of knowledge and teach it on to other people.
 
 Although I have these four technologies as main ones, I have already worked with other technologies and I have several other knowledge, such as:
 
+* Postgres
+* Redis
+* Angular
+* Ionic
+* NestJS
+* Python
+
+So on ...
 
 
 
