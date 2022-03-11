@@ -9,6 +9,8 @@ My name is Felipe, i'm a full stack developer and I'm a technology lover 😍.
 
 I believe that the most important thing to do is to always be
 in search of knowledge and teach it on to other people.
+
+Currently I'm in love with devops.
 <br/>
 <br/>
 
@@ -44,15 +46,19 @@ and So on ...
 <br/>
 <br/>
 <br/>
-Currently I'm in love with devops
+
 
 <div>
+  <h1>Git informations</h1>
   <a href="https://github.com/pabloAirez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeimp22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeimp22&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
    <!-- other theme = synthwave-->
+<br/>
+<br/>
+<br/>
 
 
 ## Social Medias
@@ -62,3 +68,7 @@ Currently I'm in love with devops
   <a href = "mailto:felipeimperio.imperioo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
