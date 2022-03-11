@@ -19,7 +19,6 @@ Currently I'm in love with devops.
 ```
 
 <br/>
-<br/>
 
 <div style="display: inline_block; color:#ff79c6"><br>
   <h1 style="display: inline_block; color:#ff79c6 !important">Main technologies</h1> <br>
