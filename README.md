@@ -47,19 +47,27 @@ and So on ...
 <br/>
 
 
-<div>
+<div align="center">
   <h1>Git informations</h1>
-  <a href="https://github.com/pabloAirez">
+  <a href="https://github.com/felipeimp22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeimp22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeimp22&layout=compact&langs_count=7&theme=dracula"/>
-    
 </div>
    <!-- other theme = synthwave-->
+  
 <br/>
 <br/>
 <br/>
 
-
+![felipeimp22-contributions](https://activity-graph.herokuapp.com/graph?username=felipeimp22&theme=dracula)
+  <br/>
+  <br/>
+  
+   <div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/felipeimp22/count.svg" /></p> 
+    <br></div>
+  
 ## Social Medias
   <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/felipeianazareth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
