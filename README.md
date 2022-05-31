@@ -1,6 +1,6 @@
 <img height="80%"  src="https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg"  >
 
-# < Hello  World!!! >  👋 🌍
+<h1 align="center"> < Hello  World!!! >  👋 🌍 </h1>
 
 
 ### 🤳 who am i ?
@@ -21,7 +21,7 @@ Currently I'm in love with devops.
 <br/>
 
 <div style="display: inline_block; color:#ff79c6"><br>
-  <h1 style="display: inline_block; color:#ff79c6 !important">Main technologies</h1> <br>
+  <h1 align="center" style="display: inline_block; color:#ff79c6 !important">Main technologies</h1> <br>
   <img  align="center" alt="VSCODE" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="React" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Node" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
@@ -68,8 +68,8 @@ and So on ...
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/felipeimp22/count.svg" /></p> 
     <br></div>
   
-## Social Medias
-  <div style="display: inline_block"> 
+  <h1 align="center"> Social Medias </h1>
+  <div align="center" style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/felipeianazareth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <!-- <a href="https://www.instagram.com/felipeimp22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:felipeimperio.imperioo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
