@@ -25,6 +25,7 @@ Currently I'm in love with devops.
   <img  align="center" alt="VSCODE" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="React" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Node" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" alt="Python" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Angular" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">
   <img align="center" alt="android" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Postgres" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
